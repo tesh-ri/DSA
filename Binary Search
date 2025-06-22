@@ -8,7 +8,7 @@ Binary Search is an efficient algorithm for finding an element in a sorted array
 
 -Space complexity: O(1) (iterative), O(log n) (recursive stack)
 
-
+-----------------------------------------------------------------------------------------------------code part----------------------------------------------------------------------------------------------------------------------------------------
 int binarySearch(int arr[], int n, int target) {
   int left = 0, right = n - 1;
 
